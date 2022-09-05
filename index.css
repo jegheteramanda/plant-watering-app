@@ -1,6 +1,7 @@
 body {
     background-image: url("https://images.pexels.com/photos/213727/pexels-photo-213727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-    background-size: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
     font-family: Arial, Helvetica, sans-serif
     font-weight: bold;
     text-align: center;
